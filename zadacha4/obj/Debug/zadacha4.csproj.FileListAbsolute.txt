@@ -1,0 +1,6 @@
+D:\practice\zadacha4\zadacha4\bin\Debug\zadacha4.exe.config
+D:\practice\zadacha4\zadacha4\bin\Debug\zadacha4.exe
+D:\practice\zadacha4\zadacha4\bin\Debug\zadacha4.pdb
+D:\practice\zadacha4\zadacha4\obj\Debug\zadacha4.csprojResolveAssemblyReference.cache
+D:\practice\zadacha4\zadacha4\obj\Debug\zadacha4.exe
+D:\practice\zadacha4\zadacha4\obj\Debug\zadacha4.pdb
